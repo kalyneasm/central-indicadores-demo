@@ -10,5 +10,4 @@ run_worker_first = ["/api/*"]
 [[d1_databases]]
 binding = "DB"
 database_name = "central-indicadores-demo"
-database_id = ""
 database_id = "68be9005-ea6b-4a7b-a265-a8c7e2017413"
